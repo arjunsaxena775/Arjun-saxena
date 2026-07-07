@@ -31,7 +31,7 @@ I enjoy leveraging tools like Python, SQL, and Power BI to solve complex problem
 | 🚀 Project | 🛠️ Tech Stack | 📄 Description |
 | :--- | :--- | :--- |
 | **End-to-End E-Commerce Sales Analytics Pipeline** | Advanced Excel, Power Query | Designed an interactive retail sales performance dashboard. Used Power Query for data cleaning, transformation, and processing to surface seasonal revenue trends and regional KPIs. |
-| **Amazon Sales Analysis** | SQL / Power BI[cite: 1] | Analyzed marketplace transaction datasets to uncover consumer purchasing patterns, high-performing item metrics, and overall order fulfillment trends. |
+| **Amazon Sales Analysis** | SQL / Power BI | Analyzed marketplace transaction datasets to uncover consumer purchasing patterns, high-performing item metrics, and overall order fulfillment trends. |
 
 ---
 
