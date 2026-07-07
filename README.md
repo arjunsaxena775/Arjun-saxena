@@ -2,7 +2,8 @@
 
 ### 📊 Aspiring Data Analyst | Transforming Data into Actionable Insights
 
-I am a motivated and detail-oriented aspiring Data Analyst with a solid foundation in data analysis, visualization, database management, and reporting[cite: 1]. I enjoy leveraging tools like Python, SQL, and Power BI to solve complex problems and support data-driven decision-making[cite: 1]. 
+I am a motivated and detail-oriented aspiring Data Analyst with a solid foundation in data analysis, visualization, database management, and reporting.
+I enjoy leveraging tools like Python, SQL, and Power BI to solve complex problems and support data-driven decision-making. 
 
 ---
 
@@ -29,17 +30,17 @@ I am a motivated and detail-oriented aspiring Data Analyst with a solid foundati
 
 | 🚀 Project | 🛠️ Tech Stack | 📄 Description |
 | :--- | :--- | :--- |
-| **End-to-End E-Commerce Sales Analytics Pipeline** | Advanced Excel, Power Query[cite: 1] | Designed an interactive retail sales performance dashboard. Used Power Query for data cleaning, transformation, and processing to surface seasonal revenue trends and regional KPIs[cite: 1]. |
-| **Amazon Sales Analysis** | SQL / Python, Power BI[cite: 1] | Analyzed marketplace transaction datasets to uncover consumer purchasing patterns, high-performing item metrics, and overall order fulfillment trends[cite: 1]. |
+| **End-to-End E-Commerce Sales Analytics Pipeline** | Advanced Excel, Power Query | Designed an interactive retail sales performance dashboard. Used Power Query for data cleaning, transformation, and processing to surface seasonal revenue trends and regional KPIs. |
+| **Amazon Sales Analysis** | SQL / Power BI[cite: 1] | Analyzed marketplace transaction datasets to uncover consumer purchasing patterns, high-performing item metrics, and overall order fulfillment trends. |
 
 ---
 
 ## 📜 Certifications & Core Focus
-* 🎓 **Data Analytics** (TechBridge) – Data cleaning, analysis, visualization, and business intelligence[cite: 1].
-* 🤖 **Python Programming with AI** (FISD) – Python programming, data manipulation, and automation[cite: 1].
-* 💾 **Database Management (SQL)** (FISD) – Relational databases, query optimization, joins, and CTEs[cite: 1].
-* 📊 **Microsoft Advanced Excel** (Skill Course) – Advanced formulas, Pivot Tables, and Power Query[cite: 1].
-* 📉 **Microsoft Power BI** (Skill Course) – Data modeling, interactive dashboards, and business intelligence[cite: 1].
+* 🎓 **Data Analytics** (TechBridge) – Data cleaning, analysis, visualization, and business intelligence.
+* 🤖 **Python Programming with AI** (FISD) – Python programming, data manipulation, and automation.
+* 💾 **Database Management (SQL)** (FISD) – Relational databases, query optimization, joins, and CTEs.
+* 📊 **Microsoft Advanced Excel** (Skill Course) – Advanced formulas, Pivot Tables, and Power Query.
+* 📉 **Microsoft Power BI** (Skill Course) – Data modeling, interactive dashboards, and business intelligence.
 
 ---
 
@@ -51,7 +52,7 @@ I am a motivated and detail-oriented aspiring Data Analyst with a solid foundati
 ---
 
 ## 💡 How I'm Improving My Profile:
-* 🔍 Deepening my skills in **statistical analysis** and data transformation pipelines[cite: 1].
+* 🔍 Deepening my skills in **statistical analysis** and data transformation pipelines.
 * 📁 Building clean, structural GitHub repositories to host portfolio projects for recruiters.
 * ✍️ Mastering complex database structures and optimizing queries for fast data retrieval.
 
